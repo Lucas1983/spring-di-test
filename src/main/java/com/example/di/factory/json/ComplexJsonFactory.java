@@ -8,7 +8,6 @@ import com.example.di.model.props.JsonProps;
 import com.example.di.model.worker.ComplexWorker;
 import com.example.di.model.worker.Worker;
 import lombok.RequiredArgsConstructor;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 @Service("complex-json")
